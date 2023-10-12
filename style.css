@@ -22,7 +22,7 @@ h2{
     -webkit-box-reflect:below 1px linear-gradient(transparent, white) ;
     line-height: 0.70em;
     outline: none;
-    animation: animate 5s linear infinite;
+    animation: animate 3s linear infinite;
 }
 
 @keyframes animate{
@@ -45,6 +45,7 @@ a{
     padding: 25px 30px;
     margin: 40px 0;
     color: aqua;
+    
     font-size: 24px;
     text-decoration: none;
     text-transform: uppercase;
